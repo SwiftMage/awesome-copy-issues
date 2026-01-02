@@ -2,6 +2,8 @@
 Bug and issue tracking for Awesome Copy, a cross-platform clipboard manager for macOS and iOS.
 Use this repository to report bugs, crashes, and feature requests, and to track fixes and improvements across releases.
 
+---
+
 **Awesome Copy** is a powerful clipboard manager for macOS and iOS that helps you capture, organize, and reuse anything you copy—text, images, files, links, and more—across all your Apple devices.
 
 Designed to feel fast, native, and unobtrusive, Awesome Copy runs quietly in the background while giving you instant access to your clipboard history whenever you need it.
